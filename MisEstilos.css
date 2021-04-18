@@ -8,7 +8,8 @@
 #encabezado{
     background-color: #2078b0 ;
     clear:both;
-    padding:25px;
+    padding:60px;
+    height: 210px;
     text-align:center;
 }
 header{
@@ -30,7 +31,7 @@ header{
 }
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20pt;
+    font-size: 40pt;
     color:  #fff;
     text-align: center;
 }
